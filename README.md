@@ -24,11 +24,4 @@ The objective of this project is to analyze the classic Titanic dataset to deter
 * **Data Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn
 
----
 
-## 📂 Repository Structure
-```text
-├── Titanic.csv              # The raw passenger dataset
-├── titanic_analytics.ipynb  # Main Jupyter Notebook implementation
-├── README.md                # Project documentation
-└── requirements.txt         # Required Python packages
