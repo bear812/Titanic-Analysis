@@ -1,11 +1,3 @@
-# Titanic Dataset Analytics & Predictive Modeling
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-An end-to-end data science and machine learning project exploring passenger survival patterns on the Titanic. This repository covers exploratory data analysis (EDA), data cleaning, feature engineering, and the deployment of a Logistic Regression classifier to predict survival outcomes.
-
 ---
 # Titanic Dataset Analytics & Predictive Modeling
 
@@ -59,9 +51,3 @@ The objective of this project is to analyze the classic Titanic dataset to deter
 
 ---
 
-## 📂 Repository Structure
-```text
-├── Titanic.csv              # The raw passenger dataset
-├── titanic_analytics.ipynb  # Main Jupyter Notebook implementation
-├── README.md                # Project documentation
-└── requirements.txt         # Required Python packages
